@@ -1,0 +1,9 @@
+difflib
+pypokedex
+pytesseract
+pyautogui
+re
+Pillow
+time
+tkinter
+keyboard
